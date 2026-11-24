@@ -1,3 +1,7 @@
+AGGIORNAMENTO 23/12/2026
+
+La prof Ferrari ha confermato che l'esame si terrà il 14/12/2026 e le iscrizioni si chiuderanno il 9 dicembre alle 23.59
+---------------------------------------
 Questo repository serve per iscriversi al pre appello di basi di dati I, che sarà svolto a dicembre poco prima della pausa natalizia;
 
 ad oggi (22/10/2026) la data dell'esame non è ancora nota. La lista degli iscritti sarà inviata alla Prof.ssa Ferrari **15 giorni prima** della data in cui si svolgerà l'appello, **QUALUNQUE ISCRIZIONE SUCCESSIVA NON SARA' PRESA IN CONSIDERAZIONE.**
